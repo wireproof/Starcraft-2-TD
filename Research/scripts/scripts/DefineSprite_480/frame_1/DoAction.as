@@ -1,0 +1,2 @@
+bt.useHandCursor = false;
+stop();

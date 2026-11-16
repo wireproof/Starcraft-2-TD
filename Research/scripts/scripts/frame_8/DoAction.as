@@ -1,0 +1,13 @@
+delete onEnterFrame;
+clearInterval(sis);
+delete drag.onEnterFrame;
+drag.stopDrag("");
+drag._x = -100;
+drag._y = -100;
+menu.P.gotoAndStop(8);
+menu.P._visible = true;
+trace("next");
+_root.hand_target2 = 0;
+_root.target_par = 0;
+menu.nxt.gotoAndStop(2);
+stop();

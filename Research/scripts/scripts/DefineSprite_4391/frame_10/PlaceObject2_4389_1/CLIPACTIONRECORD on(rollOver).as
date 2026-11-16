@@ -1,0 +1,3 @@
+on(rollOver){
+   useHandCursor = false;
+}

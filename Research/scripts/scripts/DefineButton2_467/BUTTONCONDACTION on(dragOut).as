@@ -1,0 +1,4 @@
+on(dragOut){
+   stopDrag();
+   corr();
+}

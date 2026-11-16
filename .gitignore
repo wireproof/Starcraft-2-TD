@@ -1,0 +1,10 @@
+.DS_Store
+Research/*.log
+__pycache__/
+*.pyc
+build/
+DerivedData/
+*.ipa
+*.mobileprovision
+*.p12
+*.p8
